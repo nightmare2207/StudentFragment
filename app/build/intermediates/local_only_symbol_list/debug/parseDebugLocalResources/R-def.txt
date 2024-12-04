@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_add
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id action_studentList_to_addEditStudent
+id addEditStudentFragment
+id btn_save
+id context_edit
+id context_remove
+id edit_student_id
+id edit_student_name
+id fragment_title
+id list_view_students
+id menu_add_new
+id nav_host_fragment
+id studentListFragment
+id student_id
+id student_name
+id toolbar
+layout activity_main
+layout fragment_add_edit_student
+layout fragment_student_list
+layout list_item_student
+menu context_menu
+menu main_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+navigation nav_graph
+string app_name
+style Base.Theme.StudentManagerFragment
+style Theme.StudentManagerFragment
+xml backup_rules
+xml data_extraction_rules
